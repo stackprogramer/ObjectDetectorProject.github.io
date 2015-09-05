@@ -1,0 +1,171 @@
+﻿Build started 8/15/2015 6:55:25 PM.
+Environment at start of build:
+ACTEL_FOR_ALTIUM_OVERRIDE =  
+ALLUSERSPROFILE = F:\ProgramData
+ALTERA_FOR_ALTIUM_OVERRIDE =  
+AMDAPPSDKROOT = F:\Program Files (x86)\AMD APP\
+APPDATA = F:\Users\ROOT\AppData\Roaming
+CommonProgramFiles = F:\Program Files (x86)\Common Files
+CommonProgramFiles(x86) = F:\Program Files (x86)\Common Files
+CommonProgramW6432 = F:\Program Files\Common Files
+COMPUTERNAME = ROOT-PC
+ComSpec = F:\Windows\system32\cmd.exe
+DEVMGR_SHOW_DETAILS = 1
+DEVMGR_SHOW_NONPRESENT_DEVICES = 1
+ESET_OPTIONS =                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+FP_NO_HOST_CHECK = NO
+gdk-pixbuf = F:\gtk2\include\gdk-pixbuf-2.0
+gtk = F:/gtk2
+HOMEDRIVE = F:
+HOMEPATH = \Users\ROOT
+JAVA_PATH = F:\Program Files\Java\jdk1.7.0\bin
+LOCALAPPDATA = F:\Users\ROOT\AppData\Local
+LOGONSERVER = \\ROOT-PC
+MSBuildLoadMicrosoftTargetsReadOnly = true
+NDKROOT = K:\android-ndk-r10b
+NUMBER_OF_PROCESSORS = 4
+OPENCV_DIR = K:\opencv2.4.9\build\x86\vc12\bin
+OS = Windows_NT
+Path = F:\Program Files (x86)\Intel\iCLS Client\;F:\Program Files\Intel\iCLS Client\;F:\Program Files (x86)\AMD APP\bin\x86_64;F:\Program Files (x86)\AMD APP\bin\x86;F:\Windows\system32;F:\Windows;F:\Windows\System32\Wbem;F:\Windows\System32\WindowsPowerShell\v1.0\;F:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;F:\Program Files\Intel\Intel(R) Management Engine Components\DAL;F:\Program Files\Intel\Intel(R) Management Engine Components\IPT;F:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;F:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;K:\MinGW\bin;F:\nasm-2.11;F:\gtk2\bin;F:\gtk2\include\gdk-pixbuf-2.0;F:\cmake-3.2.2-win32-x86\bin;F:\Program Files\Microsoft SQL Server\110\Tools\Binn\;K:\Brackets\command;K:\opencv2.4.9\build\x86\vc12\bin;K:\matlab2015a\runtime\win64;K:\matlab2015a\bin;K:\matlab2015a\polyspace\bin;F:\Program Files (x86)\Windows Kits\8.0\Windows Performance Toolkit\;F:\Program Files (x86)\Git\cmd;F:\Program Files (x86)\Git\bin
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PkgDefApplicationConfigFile = F:\Users\ROOT\AppData\Local\Microsoft\VisualStudio\11.0\devenv.exe.config
+PROCESSOR_ARCHITECTURE = x86
+PROCESSOR_ARCHITEW6432 = AMD64
+PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 42 Stepping 7, GenuineIntel
+PROCESSOR_LEVEL = 6
+PROCESSOR_REVISION = 2a07
+ProgramData = F:\ProgramData
+ProgramFiles = F:\Program Files (x86)
+ProgramFiles(x86) = F:\Program Files (x86)
+ProgramW6432 = F:\Program Files
+PSModulePath = F:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+PUBLIC = F:\Users\Public
+SESSIONNAME = Console
+SystemDrive = F:
+SystemRoot = F:\Windows
+TEMP = F:\Users\ROOT\AppData\Local\Temp
+TMP = F:\Users\ROOT\AppData\Local\Temp
+USERDOMAIN = ROOT-PC
+USERNAME = ROOT
+USERPROFILE = F:\Users\ROOT
+VisualStudioDir = F:\Users\ROOT\Documents\Visual Studio 2012
+VisualStudioVersion = 11.0
+VS100COMNTOOLS = F:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\Tools\
+VS110COMNTOOLS = F:\Program Files (x86)\Microsoft Visual Studio 11.0\Common7\Tools\
+VSLANG = 1033
+windir = F:\Windows
+windows_tracing_flags = 3
+windows_tracing_logfile = F:\BVTBin\Tests\installpackage\csilogfile.log
+WXWIN = F:\wxWidgets
+
+     1>Project "G:\ObjectDetector\opencv CarDetection\Webcam-opencv-CarDetect\opencv\opencv.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         opencv.vcxproj -> G:\ObjectDetector\opencv CarDetection\Webcam-opencv-CarDetect\Release\opencv.exe
+     1>Done Building Project "G:\ObjectDetector\opencv CarDetection\Webcam-opencv-CarDetect\opencv\opencv.vcxproj" (Build target(s)).
+
+Project Performance Summary:
+       47 ms  G:\ObjectDetector\opencv CarDetection\Webcam-opencv-CarDetect\opencv\opencv.vcxproj   1 calls
+                 47 ms  Build                                      1 calls
+
+Target Performance Summary:
+        0 ms  ComputeMIDLGeneratedCompileInputs          1 calls
+        0 ms  _ClCompile                                 1 calls
+        0 ms  GetReferenceAssemblyPaths                  1 calls
+        0 ms  CreateCustomManifestResourceNames          1 calls
+        0 ms  _ResourceCompile                           1 calls
+        0 ms  MakeDirsForResourceCompile                 1 calls
+        0 ms  ResolveAssemblyReferences                  1 calls
+        0 ms  _GenerateSatelliteAssemblyInputs           1 calls
+        0 ms  SelectCustomBuild                          1 calls
+        0 ms  AfterBuild                                 1 calls
+        0 ms  ComputeCLInputPDBName                      1 calls
+        0 ms  _BuildLinkAction                           1 calls
+        0 ms  BeforeResourceCompile                      1 calls
+        0 ms  AfterMidl                                  1 calls
+        0 ms  ComputeLinkSwitches                        1 calls
+        0 ms  _Deploy                                    1 calls
+        0 ms  MakeDirsForBscMake                         1 calls
+        0 ms  AfterBuildCompileEvent                     1 calls
+        0 ms  _Midl                                      1 calls
+        0 ms  PostBuildEvent                             1 calls
+        0 ms  _PrepareForBuild                           1 calls
+        0 ms  ComputeManifestInputsTargets               1 calls
+        0 ms  ComputeRCOutputs                           1 calls
+        0 ms  _XdcMake                                   1 calls
+        0 ms  CreateSatelliteAssemblies                  1 calls
+        0 ms  Build                                      1 calls
+        0 ms  ExpandSDKReferences                        1 calls
+        0 ms  BuildCompileTraverse                       1 calls
+        0 ms  ComputeLinkInputsFromProject               1 calls
+        0 ms  AfterBuildGenerateSources                  1 calls
+        0 ms  ComputeManifestGeneratedLinkerInputs       1 calls
+        0 ms  ResolveReferences                          1 calls
+        0 ms  SelectClCompile                            1 calls
+        0 ms  GetCopyToOutputDirectoryXamlAppDefs        1 calls
+        0 ms  _CheckForCompileOutputs                    1 calls
+        0 ms  GetResolvedWinMD                           1 calls
+        0 ms  _Manifest                                  1 calls
+        0 ms  _SelectedFiles                             1 calls
+        0 ms  MakeDirsForLink                            1 calls
+        0 ms  BuildLinkTraverse                          1 calls
+        0 ms  ComputeCustomBuildOutput                   1 calls
+        0 ms  AfterClCompile                             1 calls
+        0 ms  MakeDirsForMidl                            1 calls
+        0 ms  _BscMake                                   1 calls
+        0 ms  AfterResourceCompile                       1 calls
+        0 ms  _Appverifier                               1 calls
+        0 ms  _BuildGenerateSourcesAction                1 calls
+        0 ms  BuildLink                                  1 calls
+        0 ms  ComputeCLCompileGeneratedSbrFiles          1 calls
+        0 ms  PreBuildEvent                              1 calls
+        0 ms  ResolveSDKReferences                       1 calls
+        0 ms  ComputeCLGeneratedLinkInputs               1 calls
+        0 ms  ResolveProjectReferences                   1 calls
+        0 ms  _SplitProjectReferencesByFileExistence     1 calls
+        0 ms  BuildGenerateSourcesTraverse               1 calls
+        0 ms  _CopySourceItemsToOutputDirectory          1 calls
+        0 ms  ComputeLegacyManifestEmbedding             1 calls
+        0 ms  BuildGenerateSources                       1 calls
+        0 ms  _ALink                                     1 calls
+        0 ms  BeforeBuildGenerateSources                 1 calls
+        0 ms  PrepareForRun                              1 calls
+        0 ms  DoLinkOutputFilesMatch                     1 calls
+        0 ms  ResolvedXDCMake                            1 calls
+        0 ms  PlatformPrepareForBuild                    1 calls
+        0 ms  MakeDirsForXdcMake                         1 calls
+        0 ms  GetInstalledSDKLocations                   1 calls
+        0 ms  _BuildCompileAction                        1 calls
+        0 ms  AssignProjectConfiguration                 1 calls
+        0 ms  BuildCompile                               1 calls
+        0 ms  ComputeRCGeneratedLinkInputs               1 calls
+        0 ms  _Xsd                                       1 calls
+        0 ms  AfterLink                                  1 calls
+        0 ms  PrepareResourceNames                       1 calls
+        0 ms  AfterBuildGenerateSourcesEvent             1 calls
+        0 ms  BeforeClCompile                            1 calls
+        0 ms  ComputeCLOutputs                           1 calls
+        0 ms  AfterResolveReferences                     1 calls
+        0 ms  BeforeResolveReferences                    1 calls
+        0 ms  ComputeReferenceCLInput                    1 calls
+        0 ms  _Link                                      1 calls
+        1 ms  GetFrameworkPaths                          1 calls
+        1 ms  GetCopyToOutputDirectoryItems              1 calls
+        1 ms  MakeDirsForCl                              1 calls
+        1 ms  PrepareForBuild                            1 calls
+        1 ms  ComputeCLCompileGeneratedXDCFiles          1 calls
+        1 ms  AssignTargetPaths                          1 calls
+        1 ms  SetBuildDefaultEnvironmentVariables        1 calls
+        1 ms  BeforeLink                                 1 calls
+        1 ms  FinalizeBuildStatus                        1 calls
+        1 ms  PreLinkEvent                               1 calls
+        1 ms  _PrepareForReferenceResolution             1 calls
+        1 ms  SplitResourcesByCulture                    1 calls
+        1 ms  CopyFilesToOutputDirectory                 1 calls
+        4 ms  _CheckForInvalidConfigurationAndPlatform   1 calls
+        5 ms  InitializeBuildStatus                      1 calls
+       10 ms  ClCompile                                  1 calls
+       12 ms  Link                                       1 calls
+
+Build succeeded.
+
+Time Elapsed 00:00:00.04
