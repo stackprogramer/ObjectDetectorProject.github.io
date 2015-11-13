@@ -8,5 +8,6 @@ In this project we use matlab R20015a,and we created a gui toolbox for matlab to
 We also use c++ to detect Side Car By webcam.(OPENCV 2.4.9) Finally we use OPENCV4Android,and we create a app for android to detect Side Car. If you create new model from a new object ,the xml file and data base send me to add this project.for more information go to help in this project.
 
 This projected published under LICENSE GPL v3.0.thanks for see my page.
+![My image](https://github.com/stackprogramer/ObjectDetectorProject/blob/master/images/car.png)
 
 stackprogramer@gmail.com June - July 2015
