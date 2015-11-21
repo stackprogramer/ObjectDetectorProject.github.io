@@ -15,7 +15,8 @@ This projected published under LICENSE GPL v3.0.thanks for see my page.
 ![My image](https://github.com/stackprogramer/ObjectDetectorProject/blob/master/images/intro3.jpg)
 ![My image](https://github.com/stackprogramer/ObjectDetectorProject/blob/master/images/intro4.jpg)
 ![My image](https://github.com/stackprogramer/ObjectDetectorProject/blob/master/images/intro5.jpg)
-
+#for more information 
+[help](https://github.com/stackprogramer/ObjectDetectorProject/blob/master/help.pdf)
 
 thansk for attention with respect 
 stackprogramer@gmail.com June - July 2015
