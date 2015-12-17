@@ -17,6 +17,6 @@ This projected published under LICENSE GPL v3.0.thanks for see my page.
 ![My image](https://github.com/stackprogramer/ObjectDetectorProject/blob/master/images/intro5.jpg)
 ##for more information 
 [help](https://raw.githubusercontent.com/stackprogramer/ObjectDetectorProject/master/help.pdf)
-
+i will add soon  Qt project opencv apk and ios application 
 thansk for attention with respect 
 stackprogramer@gmail.com June - July 2015
