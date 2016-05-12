@@ -1,7 +1,7 @@
 #**ObjectDetectorProject**
 #####Car Detection,Side Car Detection,Object Detection,Face Detection,Matlab,OPENCV,Android(summary project)
 
-
+<pre>
                                                                                                               
  ,-----. ,--.    ,--.               ,--.      ,------.           ,--.                 ,--.                    
 '  .-.  '|  |-.  `--' ,---.  ,---.,-'  '-.    |  .-.  \  ,---. ,-'  '-. ,---.  ,---.,-'  '-. ,---. ,--.--.    
@@ -10,7 +10,7 @@
  `-----'  `---'.-'  / `----' `---'  `--'      `-------'  `----'  `--'   `----' `---'  `--'   `---' `--'       
                '---'                                                                                          
 
-
+</pre>
 
 This project created in summer (period june,july,agust 2015) for Shiraz University Bachelor Project. I use a data base images (found on internet images),to train new model Side Car Detection,i add in files projects model face,nose and .....
 
