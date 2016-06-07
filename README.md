@@ -32,6 +32,8 @@ This projected published under LICENSE GPL v3.0.thanks for see my page.
 
 
 soon i will add  Qt project opencv apk and ios application 
+#youtube video
+[![Object Detector ](imgages/youtubedemoobjectdetectorgithub.jpg)](https://www.youtube.com/watch?v=EjuCzUzU7lw "OD")
 
 thansk for attention with respect 
 stackprogramer@gmail.com June - July 2015
