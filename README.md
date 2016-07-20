@@ -1,7 +1,7 @@
 #**ObjectDetectorProject**
 #####Car Detection,Side Car Detection,Object Detection,Face Detection,Matlab,OPENCV,Android(summary project)
 #warning:this project is published under license GPLV3 with addition a condition:
-#when you use object detector for creating  new model, you should send your model and database images #(stackprogramer@gmail.com) for sharing on this #project.we we share this file model and database with your name on this #project.
+when you use object detector for creating  new model, you should send your model and database images (stackprogramer@gmail.com) for sharing on this #project.we we share this file model and database with your name on this project.
 
 <pre>
                                                                                                               
