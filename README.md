@@ -3,14 +3,7 @@
 #warning:this project is published under license GPLV3 with addition a condition:
 when you use object detector for creating  new model, you should send your model and database images (stackprogramer@gmail.com) for sharing on this #project.we we share this file model and database with your name on this project.
 
-
- ,-----. ,--.    ,--.               ,--.      ,------.           ,--.                 ,--.                    
-'  .-.  '|  |-.  `--' ,---.  ,---.,-'  '-.    |  .-.  \  ,---. ,-'  '-. ,---.  ,---.,-'  '-. ,---. ,--.--.    
-|  | |  || .-. ' ,--.| .-. :| .--''-.  .-'    |  |  \  :| .-. :'-.  .-'| .-. :| .--''-.  .-'| .-. ||  .--'    
-'  '-'  '| `-' | |  |\   --.\ `--.  |  |      |  '--'  /\   --.  |  |  \   --.\ `--.  |  |  ' '-' '|  |       
- `-----'  `---'.-'  / `----' `---'  `--'      `-------'  `----'  `--'   `----' `---'  `--'   `---' `--'       
-               '---'                                                                                          
-
+########Object Detector 
 
 This project created in summer (period june,july,agust 2015) for Shiraz University Bachelor Project. I use a data base images (found on internet images),to train new model Side Car Detection,i add in files projects model face,nose and .....
 
